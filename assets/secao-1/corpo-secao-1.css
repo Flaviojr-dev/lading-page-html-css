@@ -1,0 +1,23 @@
+/* .corpo__secao1{
+    line-height: 35px;
+} */
+
+.corpo__secao1 > h1 {
+    font-size: 50px;
+    width: 450px;
+    line-height: 60px;
+}
+
+.corpo__secao1 > p {
+    width: 800px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.saiba--mais{
+    padding: 16px;
+    background-color: rgb(58, 117, 194);
+    color: white;
+    border-radius: 10px;
+}
+

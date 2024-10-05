@@ -1,0 +1,9 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 190px 0 190px;
+}
+
+span {
+    color: #3a75c2;
+}

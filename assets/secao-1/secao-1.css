@@ -1,0 +1,6 @@
+.secao-1 {
+    display: flex;
+    margin: 140px 50px 0 50px;
+    justify-content: center;
+    align-items: center;
+}
